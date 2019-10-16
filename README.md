@@ -2,7 +2,7 @@
 # wordbook-vue
 
 ![#](https://img.shields.io/badge/word%20count-23-blue.svg)
-![#](https://img.shields.io/date/1569815008?label=last%20update)
+![#](https://img.shields.io/date/1571207828?label=last%20update)
 
 Vue 常用词汇
 
@@ -32,7 +32,7 @@ Vue 常用词汇
     <tr>
       <td>extend</td>
       <td>
-        <a href="http://dict.youdao.com/dictvoice?audio=extend&type=2">🔊</a>[ɪk'stɛnd]
+        <a href="http://dict.youdao.com/dictvoice?audio=extend&type=2">🔊</a>[ɪkˈstend]
       </td>
       <td>vt. 延伸；扩大；推广；伸出；给予；使竭尽全力；对…估价<br>vi. 延伸；扩大；伸展；使疏开</td>
     </tr>
@@ -81,7 +81,7 @@ Vue 常用词汇
     <tr>
       <td>compile</td>
       <td>
-        <a href="http://dict.youdao.com/dictvoice?audio=compile&type=2">🔊</a>[kəm'paɪl]
+        <a href="http://dict.youdao.com/dictvoice?audio=compile&type=2">🔊</a>[kəmˈpaɪl]
       </td>
       <td>vt. 编译；编制；编辑；[图情] 汇编</td>
     </tr>
@@ -123,7 +123,7 @@ Vue 常用词汇
     <tr>
       <td>element</td>
       <td>
-        <a href="http://dict.youdao.com/dictvoice?audio=element&type=2">🔊</a>['ɛləmənt]
+        <a href="http://dict.youdao.com/dictvoice?audio=element&type=2">🔊</a>[ˈelɪmənt]
       </td>
       <td>n. 元素；要素；原理；成分；自然环境<br>n. (Element)人名；(德)埃勒门特；(英)埃利门特</td>
     </tr>
@@ -137,7 +137,7 @@ Vue 常用词汇
     <tr>
       <td>render</td>
       <td>
-        <a href="http://dict.youdao.com/dictvoice?audio=render&type=2">🔊</a>['rɛndɚ]
+        <a href="http://dict.youdao.com/dictvoice?audio=render&type=2">🔊</a>[ˈrendər]
       </td>
       <td>v. 致使；提供，回报；援助；提交，提出；作出（裁决）；放弃；表达；演奏；翻译；绘制；粉刷；熔化；从（动物身体）提取（蛋白质）；秘密偷渡<br>n. 底灰，底泥；交纳<br>n. (Render) （美、英、加）伦德尔（人名）</td>
     </tr>
