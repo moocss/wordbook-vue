@@ -24,7 +24,7 @@ words:
   - word: filter
   - word: component
   - word: use
-  - word: mixin
+  # - word: mixin
   - word: compile
   - word: observable
   - word: props
